@@ -4695,6 +4695,11 @@
 /obj/structure/sign/clock/directional/north,
 /turf/open/floor/iron/dark,
 /area/centcom/central_command_areas/evacuation/ship)
+"amC" = (
+/obj/structure/table/wood/fancy/purple,
+/obj/effect/turf_decal/tile/hot_pink/full,
+/turf/open/floor/mineral/titanium/tiled/white,
+/area/centcom/central_command_areas/kitchen)
 "amD" = (
 /turf/closed/indestructible/riveted,
 /area/centcom/central_command_areas/ferry)
@@ -21429,12 +21434,6 @@
 /obj/structure/chair/sofa/left/maroon,
 /turf/open/floor/carpet/neon/simple/green/nodots,
 /area/centcom/central_command_areas/admin)
-"gOn" = (
-/obj/structure/table/wood/fancy/purple,
-/obj/item/clothing/head/peaceflower,
-/obj/effect/turf_decal/tile/hot_pink/full,
-/turf/open/floor/mineral/titanium/tiled/white,
-/area/centcom/central_command_areas/kitchen)
 "gOu" = (
 /obj/item/storage/toolbox/fishing,
 /turf/open/floor/sandy_dirt,
@@ -24139,11 +24138,6 @@
 /obj/machinery/microwave,
 /turf/open/floor/carpet/orange,
 /area/centcom/central_command_areas/adminroom)
-"oYE" = (
-/obj/structure/table/wood/fancy/purple,
-/obj/effect/turf_decal/tile/hot_pink/full,
-/turf/open/floor/mineral/titanium/tiled/white,
-/area/centcom/central_command_areas/kitchen)
 "oYI" = (
 /obj/machinery/light/small/directional/west,
 /obj/item/stack/cable_coil,
@@ -26415,6 +26409,12 @@
 "vFm" = (
 /turf/open/floor/mineral/titanium/purple,
 /area/centcom/central_command_areas/adminroom)
+"vFS" = (
+/obj/structure/table/wood/fancy/purple,
+/obj/item/clothing/head/peaceflower,
+/obj/effect/turf_decal/tile/hot_pink/full,
+/turf/open/floor/mineral/titanium/tiled/white,
+/area/centcom/central_command_areas/kitchen)
 "vHF" = (
 /obj/effect/decal/cleanable/blood/gibs,
 /obj/effect/decal/cleanable/blood/innards,
@@ -66365,7 +66365,7 @@ amQ
 amQ
 aOj
 aUj
-oYE
+amC
 azP
 azu
 amQ
@@ -66622,7 +66622,7 @@ amQ
 axl
 aXg
 ays
-gOn
+vFS
 azF
 aAm
 aFq
@@ -66879,7 +66879,7 @@ rmu
 afS
 aJn
 awE
-oYE
+amC
 azN
 aAm
 aZY
@@ -69449,7 +69449,7 @@ wZv
 auy
 aJn
 aUj
-oYE
+amC
 azP
 aAm
 aoG
@@ -69706,7 +69706,7 @@ amQ
 aHA
 aJn
 ays
-gOn
+vFS
 azF
 aAp
 aAT
@@ -69963,7 +69963,7 @@ amQ
 amQ
 ayU
 awE
-oYE
+amC
 azN
 agk
 amQ
