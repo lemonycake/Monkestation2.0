@@ -682,8 +682,8 @@
 	slice_type = /obj/item/food/cakeslice/yellow_cake
 
 /obj/item/food/cake/yellow_cake/make_processable()
-  ..()
-  radiation_pulse(src, 50)
+	..()
+	radiation_pulse(src, 50)
 
 /obj/item/food/cakeslice/yellow_cake
 	name = "yellow cake slice"
